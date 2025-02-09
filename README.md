@@ -1,5 +1,5 @@
-# Exomizer Intel macOS Binary
-This GitHub repository provides Intel macOS binary release from https://bitbucket.org/magli143/exomizer/wiki/Home
+# Exomizer Intel macOS and Linux (Ubuntu) Binaries
+This GitHub repository provides Intel macOS and Linux (Ubuntu) binaries from https://bitbucket.org/magli143/exomizer/wiki/Home
 
 ----------------------------------------------------------------------------
 Exomizer v3.1.2 Copyright (c) 2002-2023 Magnus Lind. (magli143@gmail.com)
